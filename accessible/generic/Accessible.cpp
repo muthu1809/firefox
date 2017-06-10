@@ -38,6 +38,7 @@
 #include "nsIDOMXULLabelElement.h"
 #include "nsIDOMXULSelectCntrlEl.h"
 #include "nsIDOMXULSelectCntrlItemEl.h"
+// Check this
 #include "nsPIDOMWindow.h"
 
 #include "nsIDocument.h"
